@@ -1,4 +1,5 @@
-**HTML-and-CSS-tips**
+**HTML-and-CSS-tips**  
+Check attached branches for small project demonstrations of concepts.
 
 **HTML**
 
