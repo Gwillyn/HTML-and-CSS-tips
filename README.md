@@ -6,8 +6,13 @@ Check attached branches for small project demonstrations of concepts.
 
 
 
-**CSS**
-
+**CSS**  
+  
+Before every doc, you can set the scroll behavior to smooth with:  
+* {  
+  scroll-behavior: smooth;  
+}  
+  
 ![diagram-3](https://github.com/Gwillyn/HTML-and-CSS-tips/assets/163878088/2aed9225-ebc8-419f-bfe4-87bf85b9d660)  
         This diagram represents the spacing of elements. (margin, border, padding, height, content, width).  
 
