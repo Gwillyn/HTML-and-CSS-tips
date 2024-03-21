@@ -8,6 +8,8 @@ Check attached branches for small project demonstrations of concepts.
 
 **CSS**  
   
+class~="" indicates the class can INCLUDE the set variable 
+    
 Before every doc, you can set the scroll behavior to smooth with:  
 * {  
   scroll-behavior: smooth;  
