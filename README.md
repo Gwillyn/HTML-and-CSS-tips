@@ -68,7 +68,13 @@ hence the white background and color change.
     padding: 2rem;
   }
 }  
+  
 **This padding is applied to the .card class when the viewport is 960px wide and below**  
 a media query that targets a display width between 500px and 1000px would be:  
-@media (min-width: 500px) and (max-width: 1000px){}  
+@media (min-width: 500px) and (max-width: 1000px){} 
+  
+@media only screen and (max-width: 815px) {
+  /* For mobile phones: */  
+    
+ 
 
