@@ -58,5 +58,17 @@ nav > ul > li:hover {
   
 This code demonstrates the ability to change the interactive elements, for example, anchor links to be more interactive.  
 hence the white background and color change.  
-<img width="290" alt="image" src="https://github.com/Gwillyn/HTML-and-CSS-tips/assets/163878088/14e84493-bd70-42a6-a6a7-3d48088be32b">  
+<img width="290" alt="image" src="https://github.com/Gwillyn/HTML-and-CSS-tips/assets/163878088/14e84493-bd70-42a6-a6a7-3d48088be32b">    
+   
+  
+@media at-rule, also known as a media query, is used to conditionally apply CSS. Media queries are commonly used to apply CSS based on the viewport width using the max-width and min-width properties:  
+  
+@media (max-width: 960px) {
+  .card {
+    padding: 2rem;
+  }
+}  
+**This padding is applied to the .card class when the viewport is 960px wide and below**  
+a media query that targets a display width between 500px and 1000px would be:  
+@media (min-width: 500px) and (max-width: 1000px){}  
 
