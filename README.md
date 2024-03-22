@@ -12,15 +12,15 @@ class~="" indicates the class can INCLUDE the set variable
     
 Before every doc, you can set the scroll behavior to smooth with:  
 * {    
-  scroll-behavior: smooth;  --scroll behavior to smooth--   
-  box-sizing: border-box;  --elements include padding and border in their specified width and height--   
+  scroll-behavior: smooth;  (scroll behavior to smooth)  
+  box-sizing: border-box;  (elements include padding and border in their specified width and height)  
 }  
 
-position: static <!--default positioning for all elements. If you assign it to an element, you won't be able to move it around with top, right, left, or bottom-->   
-position: relative <!--positioned according to the normal flow of the document, but the top, left, bottom, and right values become active-->  
-position: absolute <!--element is taken out of the normal flow of the document, and then its position is determined by the properties-->  
-position: fixed <!--element fixed to the page no matter where the user scrolls to on the page...-->  
-position: sticky <!--hybrid of relative and fixed... stick to a specific position within its containing element or viewport, based on the scroll position-->  
+position: static (default positioning for all elements. If you assign it to an element, you won't be able to move it around with top, right, left, or bottom)  
+position: relative (positioned according to the normal flow of the document, but the top, left, bottom, and right values become active)  
+position: absolute (element is taken out of the normal flow of the document, and then its position is determined by the properties)   
+position: fixed (element fixed to the page no matter where the user scrolls to on the page...)   
+position: sticky (hybrid of relative and fixed... stick to a specific position within its containing element or viewport, based on the scroll position)  
   
 transform: translate(), rotate(), scale(), skew(), and matrix() <!--modify the shape, position, and size of an element without changing the layout or affecting the surrounding elements-->  
   
