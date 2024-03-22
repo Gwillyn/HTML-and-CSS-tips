@@ -32,6 +32,8 @@ transform: translate(), rotate(), scale(), skew(), and matrix() <!--modify the s
 ![diagram-3](https://github.com/Gwillyn/HTML-and-CSS-tips/assets/163878088/2aed9225-ebc8-419f-bfe4-87bf85b9d660)  
         This diagram represents the spacing of elements. (margin, border, padding, height, content, width).  
   
+overflow: hidden; (allows for hiding of any element that flows over the page, eliminating scroll bars in the process)  
+    
 nav {  
   width: 50%;  
   max-width: 300px;  
