@@ -12,8 +12,8 @@ class~="" indicates the class can INCLUDE the set variable
     
 Before every doc, you can set the scroll behavior to smooth with:  
 * {    
-  scroll-behavior: smooth;  <!--scroll behavior to smooth-->  
-  box-sizing: border-box;  <!--elements include padding and border in their specified width and height-->  
+  scroll-behavior: smooth;  --scroll behavior to smooth--   
+  box-sizing: border-box;  --elements include padding and border in their specified width and height--   
 }  
 
 position: static <!--default positioning for all elements. If you assign it to an element, you won't be able to move it around with top, right, left, or bottom-->   
