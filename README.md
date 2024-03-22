@@ -1,6 +1,7 @@
 **HTML-and-CSS-tips**  
-Check attached branches for small project demonstrations of concepts.
-
+Check attached branches for small project demonstrations of concepts.  
+Documentation Page: shows an interactive nav element, also helpful @media elements to orient the page differently on smaller devices (i.e. phones)  
+  
 **HTML**
 
 
